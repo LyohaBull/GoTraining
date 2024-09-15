@@ -1,0 +1,36 @@
+<AdaptationSet mimeType='video/mp4' segmentAlignment='true' startWithSAP='1'
+	
+	maxWidth="1280"
+	
+
+	
+	maxHeight="720"
+	
+
+	
+>
+<Representation id='52d43af0-90d6-47ea-af3a-9ffc9ce1721a' codecs='avc1.4D401F'
+	
+	width="1280"
+	
+
+	
+	height="720"
+	
+
+	
+	scanType="progressive"
+	
+
+	
+	frameRate="25"
+	
+bandwidth='275067'
+	
+>
+    <SegmentList timescale='1000' duration='4000'>
+        <Initialization sourceURL='https://edge-msk-1.kinescopecdn.net/7cb7949b-23bf-466e-a8cd-fe37eafdb877/videos/aa6403aa-6ea8-4c8d-ba99-f379f6fd6671/assets/52d43af0-90d6-47ea-af3a-9ffc9ce1721a/720p.mp4?expires=1712074700&amp;kinescope_project_id=83553c7a-45df-4732-95f4-8a3e714f7899&amp;sign=e214e8d257cf09fc4e81ec2f36e6b59c' range='40-894'/>
+        <SegmentURL media='https://edge-msk-1.kinescopecdn.net/7cb7949b-23bf-466e-a8cd-fe37eafdb877/videos/aa6403aa-6ea8-4c8d-ba99-f379f6fd6671/assets/52d43af0-90d6-47ea-af3a-9ffc9ce1721a/720p.mp4?expires=1712074700&amp;kci=CgVMaW51eBIHZGVza3RvcBoHRmlyZWZveCEAAAAAAAAQQCoEhSqqrA%3D%3D&amp;kinescope_project_id=83553c7a-45df-4732-95f4-8a3e714f7899&amp;sign=e214e8d257cf09fc4e81ec2f36e6b59c' mediaRange='895-113796'/>
+    </SegmentList>
+</Representation>
+</AdaptationSet>
